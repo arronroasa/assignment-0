@@ -7,7 +7,7 @@
 
 ## References and Resources
 
-Google, Gemini 3, used for debugging since some of the provided code was not working with my version of Android Studio
+Google, Gemini 3 - used for debugging since some of the provided code was not working with my version of Android Studio
 
 ## Verbal Collaboration
 
